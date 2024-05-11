@@ -8,7 +8,7 @@ Move Down: Down arrow key<br>
 Player 2:<br>
 Move Up: "W" key<br>
 Move Down: "S" key<br>
-<b>How to play<b><br>
+<b>How to play</b><br>
 1.Clone the repository to your local machine.<br>
 2.Ensure you have Python installed.<br>
 3.Open a terminal and navigate to the directory where the game files are located.<br>
